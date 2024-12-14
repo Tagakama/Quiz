@@ -12,4 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2440a9fec63a9b44e9b99bb6200aff74, type: 3}
   m_Name: QuestionsObjectsHolder
   m_EditorClassIdentifier: 
-  _questionsObjectsNames: []
+  _questionsObjectsNames:
+  - 5
+  - 2
+  - 7
+  - 7
+  - 5
+  - 4
+  - 8
+  - 8
+  - 10
+  _questionsGameObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

@@ -15,8 +15,11 @@ MonoBehaviour:
   _gameLoops:
   - _questionDataType:
     - {fileID: 11400000, guid: c961b37ddf2728645aa9f55b4387ea95, type: 2}
+    - {fileID: 11400000, guid: b55824d7a39ae214794424f1e3b20db3, type: 2}
     _levelData:
     - _numberOfLines: 1
       _numderOfColumns: 3
     - _numberOfLines: 2
+      _numderOfColumns: 3
+    - _numberOfLines: 3
       _numderOfColumns: 3
